@@ -1,0 +1,16 @@
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.exe
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.deps.json
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.runtimeconfig.json
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.runtimeconfig.dev.json
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.dll
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\ref\MyBlog.dll
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\bin\Debug\net5.0\MyBlog.pdb
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.csproj.AssemblyReference.cache
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.AssemblyInfoInputs.cache
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.AssemblyInfo.cs
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.csproj.CoreCompileInputs.cache
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.dll
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\ref\MyBlog.dll
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.pdb
+C:\Projekty\CSharpFiles\MyBlog\MyBlog\obj\Debug\net5.0\MyBlog.genruntimeconfig.cache
